@@ -1,0 +1,16 @@
+vbody {
+    background-image: url("https://oir.mobi/uploads/posts/2021-03/1616964580_41-p-fon-dlya-saita-42.jpg");
+    font-family: sans-serif;
+}
+nav {
+    background-color: orangered ;
+    border: 10px solid red;
+    
+
+}
+nav a {
+    color: blueviolet;
+    border: 5px solid red;
+    margin: 15px;
+    padding: 5px;
+background-color: brown;
